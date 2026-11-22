@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "BookShelf",
+    "slug": "bookshelf-movil",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "scheme": "bookshelfmovil",
+    "userInterfaceStyle": "light",
+    "platforms": [
+      "android"
+    ],
+    "plugins": [
+      "expo-router",
+      "expo-font"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
