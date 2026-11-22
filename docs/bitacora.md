@@ -19,6 +19,11 @@ en React Native con Expo SDK 58: **Biblioteca**, **Registrar libro** y
 Datos de ejemplo (`mock`) y estado en memoria: el avance no incluye backend,
 cámara ni persistencia entre reinicios de la aplicación.
 
+**Enlaces de la entrega**
+
+- Repositorio: <https://github.com/PeepoClown04/bookShelf-movil>
+- Diseño en Penpot: <https://design.penpot.app/?screen=viewer&file-id=7b7d55f9-965b-8000-8008-f7168f298bbb&page-id=7b7d55f9-965b-8000-8008-f7168f298bbc&section=interactions&index=0&share-id=1aed0575-3fa7-48bb-90b1-ec0b96db0d43>
+
 ---
 
 ## 1. Identidad de marca y UI Kit base
