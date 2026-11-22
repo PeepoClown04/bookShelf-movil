@@ -22,7 +22,7 @@ cámara ni persistencia entre reinicios de la aplicación.
 **Enlaces de la entrega**
 
 - Repositorio: <https://github.com/PeepoClown04/bookShelf-movil>
-- Diseño en Penpot: <https://design.penpot.app/?screen=viewer&file-id=7b7d55f9-965b-8000-8008-f7168f298bbb&page-id=7b7d55f9-965b-8000-8008-f7168f298bbc&section=interactions&index=0&share-id=1aed0575-3fa7-48bb-90b1-ec0b96db0d43>
+- Diseño en Penpot: <https://design.penpot.app/?screen=viewer&file-id=7b7d55f9-965b-8000-8008-f7168f298bbb&page-id=7b7d55f9-965b-8000-8008-f7168f298bbc&section=interactions&index=0&share-id=b36fccfd-1f1c-4a11-bae5-d9d4867a0f07>
 
 ---
 
